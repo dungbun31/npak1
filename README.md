@@ -6,7 +6,7 @@
 
     - add execute permission to file - "chmod +x scanner_docs.py:"
     - create a symbolic link to the /usr/local/bin/ address - "sudo ln -sf /home/.../prak1_v3/scanner_docs.py /usr/local/bin/scanner_docs
-    - run utility - "scanner_docs + <path file>"
+    - run utility - "scanner_docs + "path file""
 
 # npak1
 
