@@ -27,7 +27,3 @@
 File_processor.py module provides functions to extract text content from various file types such as .txt, .docx, .pdf, .eml, compressed files, or images (using OCR with Tesseract). 
 
 Scanner_docs.py file uses the functions in file_processor to take the text, load the model and vectorizer from the saved files, convert the text to vectors, and use the trained model to predict the label for the document, then print the results to the screen.
-
-
-- how the project works:
-Your project operates in a continuous and rigorous process, starting with training the classification model in the model.ipynb file. In which, data from the Excel file (categories.xlsx) is processed and converted into (text, label) pairs after preprocessing and vectorization using TF-IDF, then the Logistic Regression model is trained and saved with the vectorizer as a pickle file in the model folder. Next, the file_processor.py module provides functions to extract text content from various file types such as .txt, .docx, .pdf, .eml, compressed files, or images (using OCR with Tesseract). Finally, the scanner_docs.py file serves as the command line interface for the project, where users only need to run the command with the path to the file to be analyzed; This script will use the functions in file_processor to take the text, load the model and vectorizer from the saved files, convert the text to vectors, and use the trained model to predict the label for the document, then print the results to the screen.
