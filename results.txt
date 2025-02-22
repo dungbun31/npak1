@@ -1,0 +1,23 @@
+1.4.jpg: Personal data
+3.4.pdf: HR data
+5.1.jpg: Documents marked as confidential
+5.3.jpg: Documents marked as confidential
+5.4.pdf: Documents marked as confidential
+.DS_Store: Không trích xuất được nội dung
+3.3.pdf: HR data
+5.5.pdf: Documents marked as confidential
+3.1.jpg: HR data
+1.jpeg: Personal data
+1.1.jpg: Personal data
+4.3.jpg: Financial documents
+4.2.jpg: Financial documents
+4.1.jpg: Financial documents
+1.3.txt: Personal data
+1.2.txt: Credentials for others resources
+4.4.pdf: Financial documents
+2.1.jpg: Credentials for others resources
+5.docx: Credentials for others resources
+4.jpg: Financial documents
+2.jpg: Credentials for others resources
+3.jpg: Credentials for others resources
+1.jpg: Credentials for others resources

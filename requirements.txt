@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+openpyxl
+python-docx
+PyPDF2
+pytesseract
+Pillow
+py7zr
+rarfile
+pdf2image
